@@ -1,0 +1,48 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 203
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sphenodon" ; Times: 1
+	Query: "gbifdatasetid:4b17f1c6-93a3-4e22-9822-1c7d829bb666" ; Times: 1
+	Query: "concinna texas" ; Times: 1
+	Query: "institutioncode:ism" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "concinna mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 507 download events in this period)
+Total number of records downloaded: 1049
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "concinna mexico" ; Times: 1
+
+
+End of report.
