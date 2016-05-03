@@ -1,0 +1,104 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 283
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 15
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "institutioncode:ism" ; Times: 1
+	Query: "class:Reptilia county:&#34;Fayette&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "class:Reptilia county:&#34;Randolph&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Clonophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 2
+	Query: "order:Squamata county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "clonophis" ; Times: 2
+	Query: "class:Reptilia county:&#34;Mason&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "class:Reptilia county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "genus:Sistrurus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Farancia class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1312 download events in this period)
+Total number of records downloaded: 1115
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "reptiles santa fe" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
