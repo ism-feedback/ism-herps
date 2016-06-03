@@ -1,0 +1,76 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "pituophis virginia" ; Times: 2
+	Query: "family:Viperidae county:&#34;Piatt&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "ISM AND Island" ; Times: 1
+	Query: "catalognumber:621683" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Elaphe vulpina illinois" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 177
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Eurycea" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
