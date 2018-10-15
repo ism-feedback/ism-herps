@@ -1,0 +1,95 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-06 ; Times: 7
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mississippi apalone mutica" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:ISM" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "apalone mutica united states Mississippi state" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Eumeces FASCIATUS missouri" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "apalone mutica united states Mississippi" ; Times: 4
+	Query: "sphenodon punctatus" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:ISM" ; Times: 1
+	Query: "ambystoma velasci" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Trachemys scripta united states Mississippi" ; Times: 1
+	Query: "family:Anguidae class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1398 download events in this period)
+Total number of records downloaded: 159
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 4
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "trachemys scripta stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "ambystoma velasci" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
