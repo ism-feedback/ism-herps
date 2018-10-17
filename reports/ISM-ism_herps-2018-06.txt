@@ -1,0 +1,99 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 47
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo nebulifer" ; Times: 1
+	Query: "Missouri Heterodon" ; Times: 1
+	Query: "Apalone mutica Mississippi" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:ISM" ; Times: 2
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "genus:Clonophis stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Cryptobranchus Missouri" ; Times: 1
+	Query: "Missouri Jefferson Reptilia" ; Times: 3
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "clonophis" ; Times: 1
+	Query: "Reptilia Flavescens illinois" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1169 download events in this period)
+Total number of records downloaded: 253
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo nebulifer" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
