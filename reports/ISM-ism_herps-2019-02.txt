@@ -1,0 +1,77 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavialis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34; preparations:skeleton" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;lorain&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Anguidae institutioncode:ISM" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "diadophis durango" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1227 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+
+
+End of report.
