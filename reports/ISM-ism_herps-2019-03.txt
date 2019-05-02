@@ -1,0 +1,92 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 15
+	Country: Sweden ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-15 ; Times: 5
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "622350" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "genus:siren institutioncode:ISM" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Marshall&#34; stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Alabama pickens" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Sanzinia madagascariensis" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "genus:micrurus county:&#34;travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Kentucky&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Lake&#34; stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "622349" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Sistrurus miliarius stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1281 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "genus:Necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Sistrurus miliarius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
