@@ -1,0 +1,104 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 29
+	Country: Sweden ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-05 ; Times: 5
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-06 ; Times: 8
+	Date: 2019-04-26 ; Times: 13
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 6
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia locality:Monterrey stateprovince:&#34;Nuevo Leon&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "order:Squamata class:Reptilia county:&#34;Stafford&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:siren institutioncode:ISM" ; Times: 1
+	Query: "sphenocephala refugio" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Robertson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "contortrix missouri" ; Times: 6
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "genus:sistrurus county:&#34;mclean&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Glasscock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "specificepithet:sphenocephala genus:rana stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:Viridis genus:Crotalus institutioncode:ISM" ; Times: 1
+	Query: "agkistrodon contortrix missouri" ; Times: 5
+	Query: "class:reptilia county:&#34;jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "nerodia new mexico" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Leon&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1263 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "sphenocephala refugio" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
