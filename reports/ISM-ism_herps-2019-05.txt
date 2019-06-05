@@ -1,0 +1,102 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 309
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Sweden ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 10
+	Date: 2019-05-01 ; Times: 4
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "caudata dinwiddie virginia" ; Times: 1
+	Query: "Crotalus durissus terrificus" ; Times: 1
+	Query: "jo daviess pituophis" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene institutioncode:ISM" ; Times: 1
+	Query: "gbifdatasetid:4b17f1c6-93a3-4e22-9822-1c7d829bb666 tropidoclonion" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Leon&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Robertson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "contortrix missouri" ; Times: 3
+	Query: "Nerodia cyclopion tennessee" ; Times: 1
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "Tuskegee reptilia" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus durissus terrificus#" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "gbifdatasetid:4b17f1c6-93a3-4e22-9822-1c7d829bb666" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 217
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Poland ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 10
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "specificepithet:velasci genus:Ambystoma" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "gbifdatasetid:4b17f1c6-93a3-4e22-9822-1c7d829bb666 tropidoclonion" ; Times: 1
+
+
+End of report.
