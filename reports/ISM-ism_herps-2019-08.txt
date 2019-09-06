@@ -1,0 +1,86 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-08 ; Times: 11
+	Date: 2019-08-15 ; Times: 13
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 6
+	Query: "Macrochelys arkansas" ; Times: 2
+	Query: "genus:Chrysemys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "cnemidophorus skeleton texas" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 13
+	Query: "genus:Pituophis stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 4
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "id:http-arctos-database-museum-guid-msb-mamm-190481-seid-1789413" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1034 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "sistrurus catenatus tergeminus" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Chrysemys picta marginata" ; Times: 1
+
+
+End of report.
