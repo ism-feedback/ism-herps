@@ -1,0 +1,112 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 684
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 54
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-30 ; Times: 6
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 10
+	Date: 2019-09-06 ; Times: 18
+	Date: 2019-09-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Regina grahamii" ; Times: 2
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "terrapene stafford" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene institutioncode:ISM" ; Times: 1
+	Query: "id:http-arctos-database-museum-guid-msb-mamm-190481-seid-1789413" ; Times: 1
+	Query: "locality:Poços de Caldas" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Kentucky&#34; institutioncode:ISM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:ISM" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 6
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "622349" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "speciosus specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34; institutioncode:ISM" ; Times: 2
+	Query: "Reptiles Macon county alabama" ; Times: 1
+	Query: "illinoensis Pseudacris" ; Times: 3
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "graptemys kohnii" ; Times: 1
+	Query: "leptodactylus fragilis texas" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "Bufo nebulifer specificepithet:nebulifer genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "gbifdatasetid:4b17f1c6-93a3-4e22-9822-1c7d829bb666" ; Times: 2
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 3
+	Query: "genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "specificepithet:Barbouri genus:Graptemys stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1073 download events in this period)
+Total number of records downloaded: 188
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brunei ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34; institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+
+
+End of report.
