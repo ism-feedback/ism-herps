@@ -1,0 +1,143 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 219
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 8
+	Country: Sweden ; Times: 35
+	Country: Germany ; Times: 4
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 22
+	Date: 2020-05-24 ; Times: 22
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Union&#34; stateprovince:&#34;Illinois&#34; year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Greene&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "622146" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Greene&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "622167" ; Times: 1
+	Query: "Sphenodon" ; Times: 4
+	Query: "genus:Sistrurus county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Johnson&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Calhoun&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Johnson&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Sangamon&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34; institutioncode:ISM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34; year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alexander&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bothrops specificepithet:jararaca" ; Times: 6
+	Query: "genus:Crotalus county:&#34;Greene&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "622151" ; Times: 1
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Thamnophis class:reptilia county:&#34;travis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Fayette&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "genus:Sistrurus county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Piatt&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Hardin&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Union&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Multnomah&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Randolph&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Sangamon&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Union&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Saline&#34; stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1106 download events in this period)
+Total number of records downloaded: 457
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen order:Squamata stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:latirostris genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Paraná&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
