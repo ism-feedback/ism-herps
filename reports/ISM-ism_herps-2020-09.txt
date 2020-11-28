@@ -1,0 +1,85 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Finland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 976 download events in this period)
+Total number of records downloaded: 223
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 11
+	Country: Uganda ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "ambystoma velasci" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+
+
+End of report.
