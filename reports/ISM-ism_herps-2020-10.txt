@@ -1,0 +1,107 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 247
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Turkey ; Times: 1
+	Country: Sweden ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "year &gt;= 1800 year &lt;= 2015 institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:fragilis genus:Leptodactylus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Benton&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "institutioncode:ism" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Oregon&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cryptobranchidae stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Crawford&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tropidoclonion county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1521 download events in this period)
+Total number of records downloaded: 233
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Ethiopia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 3
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-01 ; Times: 2
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-06 ; Times: 3
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Plethodon cinereus&#34; AND &#34;michigan&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+
+
+End of report.
