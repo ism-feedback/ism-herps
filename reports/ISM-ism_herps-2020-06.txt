@@ -1,0 +1,60 @@
+Report for Institution Code ISM, Resource ism_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Clonophis Kirtlandii" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Carphophis Texas" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
